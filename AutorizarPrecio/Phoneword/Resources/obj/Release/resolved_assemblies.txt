@@ -1,0 +1,12 @@
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\Phoneword.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\mscorlib.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.Core.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.Data.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.Xml.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\System.Numerics.dll
+C:\Users\Carlos\documents\visual studio 2015\Projects\Phoneword\Phoneword\obj\Release\android\assets\Mono.Data.Tds.dll
